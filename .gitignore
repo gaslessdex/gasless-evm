@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+coverage/
+*.log
+*.tmp
+*.tsbuildinfo
+.idea/
+.vscode/
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+.DS_Store
